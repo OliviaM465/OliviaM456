@@ -30,11 +30,10 @@ I'm passionate about data-driven, sustainable solutions that create real societa
 
 **💼 Work Experience**  
 
-**Quality Management Representative** – *Abbott Automation Solutions GmbH*  
+**Assistant Quality Specialist** – *Abbott Automation Solutions GmbH*  
 *2023 – 2025*  
-- Coordinating internal audits and driving continuous process improvement  
-- Creating and maintaining quality-relevant documentation  
-- Collaboration with Regulatory Affairs, lab, and production teams  
+- Contributing to internal/external audits and driving continuous process improvement  
+- Creating and maintaining quality-relevant documentation 
 
 **Scientist** – *Bioagilytix Europe GmbH*  
 *2020 – 2023*  
