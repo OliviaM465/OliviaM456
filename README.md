@@ -1,66 +1,78 @@
 # OliviaM456
 
-# 👋 Willkommen auf meinem GitHub-Profil
+👋 Welcome to my GitHub Profile
+Hi! I'm Olivia Mühlbauer – a data analytics career changer with a scientific background and experience in quality management.
+I'm passionate about data-driven, sustainable solutions that create real societal value.
 
-Hallo! Ich bin Olivia Mühlbauer – Data-Analytics-Quereinsteigerin mit wissenschaftlichem Hintergrund und Erfahrung im Qualitätsmanagement.  
-Ich interessiere mich für datengetriebene, nachhaltige Lösungen, die echten gesellschaftlichen Mehrwert schaffen.
+📊 Skills
+💡 Data Analytics (Neue Fische Bootcamp)
 
----
+Data analysis with Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-## 📊 Skills
+SQL for querying and managing data
 
-### 💡 Data Analytics (Neue Fische Bootcamp)
-- Datenanalyse mit **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** für Datenabfragen und -management
-- **Explorative Datenanalyse (EDA)** & Datenvisualisierung
-- Grundlagen von **Machine Learning** (Scikit-learn)
-- **Git & GitHub** für Versionskontrolle
-- **Agiles Arbeiten** (Scrum, Kanban)
-- Präsentation und **Data Storytelling**
+Exploratory Data Analysis (EDA) & data visualization
 
-### 🔬 Wissenschaft & Labor
-- Versuchsplanung und **biomedizinische Laborarbeit** (zellbiologische & molekularbiologische Methoden)
-- **Datenerhebung**, -auswertung und statistische Analyse
-- Wissenschaftliches Schreiben, **Präsentation & Teamarbeit**
+Fundamentals of machine learning (Scikit-learn)
 
-### 📋 Qualitätsmanagement
-- **ISO13485-konforme** Prozess- und Dokumentenpflege
-- **Auditvorbereitung**, interne Audits & CAPA-Maßnahmen
-- Interdisziplinäre Zusammenarbeit & Kommunikation
+Git & GitHub for version control
 
----
+Agile methodologies (Scrum, Kanban)
 
-## 💼 Berufserfahrung
+Presentation and data storytelling
 
-**Qualitätsmanagementbeauftragte – [Abbott Automation Solutions GmbH]**  
-*2023 – 2025*  
-- Betreuung interner Audits und kontinuierliche Prozessverbesserung  
-- Erstellung und Pflege qualitätsrelevanter Dokumentation  
-- Zusammenarbeit mit Regulatory Affairs, Labor und Produktion
+🔬 Science & Laboratory
 
-**Scientist – [Bioagilytix Europe GmbH]**  
-*2020 – 2023*  
-- Eigenverantwortliche Planung, Durchführung und Analyse biowissenschaftlicher Experimente  
-- Aufbereitung komplexer Daten und Erstellung wissenschaftlicher Berichte  
-- Projektarbeit in einem multidisziplinären Team  
+Experimental planning and biomedical lab work (cellular & molecular biology methods)
 
-**Labormitarbeiterin – [Bioagilytix Europe GmbH]**  
-*2018 – 2020*  
-- Laborarbeit in molekular- und zellbiologischen Forschungsprojekten  
-- Analyse experimenteller Daten
+Data collection, evaluation, and statistical analysis
 
----
+Scientific writing, presenting, and teamwork
 
-## 🎯 Interessen
+📋 Quality Management
 
-- Nachhaltigkeit & Biomedizin  
-- Visuelle Datenkommunikation  
-- Interdisziplinäre Teamarbeit  
-- Projektbasiertes Arbeiten mit Wirkung
+ISO 13485-compliant process and document maintenance
 
----
+Audit preparation, internal audits & CAPA actions
 
-## 📫 Kontakt
+Interdisciplinary collaboration & communication
 
-E-Mail: oliviamuehlbauer@web.de  
-LinkedIn: (www.linkedin.com/in/olivia-mühlbauer-4418b110a)
+💼 Work Experience
+Quality Management Representative – Abbott Automation Solutions GmbH
+2023 – 2025
+
+Coordinating internal audits and driving continuous process improvement
+
+Creating and maintaining quality-relevant documentation
+
+Collaboration with Regulatory Affairs, lab, and production teams
+
+Scientist – Bioagilytix Europe GmbH
+2020 – 2023
+
+Independent planning, execution, and analysis of bioscience experiments
+
+Processing complex data and writing scientific reports
+
+Project work in a multidisciplinary team
+
+Lab Technician – Bioagilytix Europe GmbH
+2018 – 2020
+
+Laboratory work in molecular and cell biology research projects
+
+Analysis of experimental data
+
+🎯 Interests
+
+Sustainability & biomedicine
+
+Visual data communication
+
+Interdisciplinary teamwork
+
+Project-based work with impact
+
+📫 Contact
+📧 Email: oliviamuehlbauer@web.de
+🔗 LinkedIn: www.linkedin.com/in/olivia-mühlbauer-4418b110a
